@@ -5,14 +5,14 @@
       "message": "Fixed hard drive on workstation 002",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "date": "2020-06-07T17:54:40.895Z"
     },
     {
+      "id": 3,
       "message": "1122 wireless down",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "date": "2020-06-07T17:55:06.182Z"
     },
     {
       "id": 4,
